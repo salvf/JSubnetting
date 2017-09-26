@@ -17,8 +17,8 @@
 package subnet;
 
 /******************************************************************************************   
- *  Modificate by Salvador Vera Franco based on Apache Commons Net "SubnetUtils class"    *
- *  --Created SubnetHelper class.                                                         *
+ *  Autor Salvador Vera Franco based on Apache Commons Net "SubnetUtils class"            *                                                       
+ *  Version 1.1                                                                           *
  *  --WildCard, NextNetworkAddress and getDefaultMask added.                              *
  ******************************************************************************************/
 
