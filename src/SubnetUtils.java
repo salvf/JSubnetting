@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package subnet;
+package com.anubis.JSubnetting;
 
 /******************************************************************************************   
  *  Autor Salvador Vera Franco based on Apache Commons Net "SubnetUtils class"            *                                                       
